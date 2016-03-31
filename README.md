@@ -9,6 +9,7 @@ by [Amit Kapoor](http://twitter.com/amitkaps) and [Bargava Subramanian](http://t
 **Audience**: People interested in Data analytics on time series data.
 
 **Objective**: 
+
 1. What is time series data? 
 2. How to visualize time series data 
 3. How to analyze time series data ? 
@@ -49,8 +50,8 @@ Then we will define the problem(s) we want to forecast and introduce some of the
 
 
 
-###Script to check if requisite libraries for the workshop are present
-Please execute the following at the command prompt
+*Script to check if requisite libraries for the workshop is present*
+Please execute the following command at the command prompt
 
     $ python check_env.py
 
